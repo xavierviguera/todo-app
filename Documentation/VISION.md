@@ -8,6 +8,7 @@ The application will be designed to be lightweight, fast, and accessible, offeri
 The primary purpose of this application is to provide a flexible tool for both casual users who only want to track their daily tasks and those looking for a system to manage simple projects, thus adapting to the needs of a diverse audience.
 
 # The problem
+
 ## Lack of organization
 Many people struggle to organize their tasks and responsibilities, which can cause stress and decrease productivity. Without a clear structure, it's easy to forget important tasks or not know where to start.
 
